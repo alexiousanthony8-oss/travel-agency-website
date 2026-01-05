@@ -1,0 +1,15 @@
+{
+    "version":  "0.2.0",
+    "configurations": [
+        {
+            "name": "Travel Agency - Tomcat Server",
+            "type": "java",
+            "name": "Debug Travel Agency Website",
+            "request": "launch",
+            "mainClass": "org.apache.catalina.startup. Bootstrap",
+            "args": "start",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
